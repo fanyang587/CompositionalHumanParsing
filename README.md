@@ -1,5 +1,3 @@
-## Learning Compositional Neural Infomation Fusion for Human Parsing
-# accepted by ICCV 2019
-
+## Learning Compositional Neural Infomation Fusion for Human Parsing (ICCV19)
 
 ** coming soon **
